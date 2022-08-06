@@ -8,7 +8,7 @@ Proyecto de inicio rapido con las configuraciones necesarias para un proyecto co
 - Si desean crear el paquete de distribución por defecto usar 
 
 En producción:
-```
+``` 
 npm run build
 ```
 Para trabajar en desarrollo usar 
